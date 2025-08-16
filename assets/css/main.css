@@ -4161,8 +4161,9 @@ input, select, textarea {
 .image img {
   width: 300px;       /* ajuste conforme a necessidade */
   height: 300px;
-  border-radius: 50%;
+  border-radius: 0%;
   object-fit: cover;
   aspect-ratio: 1/1;
   display: block;
 }
+
