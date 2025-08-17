@@ -4158,14 +4158,6 @@ input, select, textarea {
 #banner p {
   text-transform: none !important;
 }
-.image img {
-  width: 300px !important;       /* ajuste conforme desejado */
-  height: 300px !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-  aspect-ratio: 1 / 1 !important;
-  display: block;
-  object-position: center center !important; /* centraliza o conteúdo */
-}
+
 
 
